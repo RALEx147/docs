@@ -33,16 +33,16 @@ Response body:
     "id": 1,
     "result": {
         "version": 0,
-        "id": "c56f33fc6ecfcd0c225c4ab356fee59390af8560be0e930faebe74a6daff7c9b",
-        "type": "SystemShare",
+        "id": "0xc56f33fc6ecfcd0c225c4ab356fee59390af8560be0e930faebe74a6daff7c9b",
+        "type": "GoverningToken",
         "name": [
             {
                 "lang": "zh-CN",
-                "name": "NEO"
+                "name": "小蚁股"
             },
             {
                 "lang": "en",
-                "name": "NEO"
+                "name": "AntShare"
             }
         ],
         "amount": "100000000",
@@ -51,7 +51,7 @@ Response body:
         "owner": "00",
         "admin": "Abf2qMs1pzQb8kYk9RuxtUb9jtRKJVuBJt",
         "issuer": "Abf2qMs1pzQb8kYk9RuxtUb9jtRKJVuBJt",
-        "expiration": 2000000,
+        "expiration": 4000000,
         "frozen": false
     }
 }
